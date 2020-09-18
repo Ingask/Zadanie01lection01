@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Валидный ключ считается невалидным в KeyValidator](github.com/Ingask/Zadanie01lection01/issues/1#issue-702951411)
-* [Невалидный ключ считается валидным в KeyValidator](github.com/Ingask/Zadanie01lection01/issues/3#issue-702958372)
+* [Валидный ключ считается невалидным в KeyValidator](github.com/Ingask/Zadanie01lection01/issues/1)
+* [Невалидный ключ считается валидным в KeyValidator](github.com/Ingask/Zadanie01lection01/issues/3)
 
 ## Описание процесса тестирования
 
