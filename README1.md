@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* Валидный ключ считается невалидным в KeyValidator  https://github.com/Ingask/Zadanie01lection01/issues/1#issue-702951411
+* Валидный ключ считается невалидным в KeyValidator  < a href="https://github.com/Ingask/Zadanie01lection01/issues/1#issue-702951411">Валидный ключ считается невалидным в KeyValidator< /a>
 * Валидный ключ определяется как невалидный в KeyValidator  https://github.com/Ingask/Zadanie01lection01/issues/2#issue-702955849
 * Невалидный ключ считается валидным в KeyValidator https://github.com/Ingask/Zadanie01lection01/issues/3#issue-702958372
 
@@ -24,3 +24,4 @@
 Тестирование производилось в следующем окружении:
 * Windows 10
 * Java 11.0.8
+< a href="http://www.seoded.ru/">Ссылка на сайт< /a>
